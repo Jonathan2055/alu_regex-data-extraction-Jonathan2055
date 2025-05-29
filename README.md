@@ -1,10 +1,10 @@
-📄 Regex Data Extractor
+**📄 Regex Data Extractor**
 This Python project extracts various data types—such as emails, URLs, phone numbers, credit card numbers, times, HTML tags, hashtags, and currency amounts—from a given text file using regular expressions.
 
-🚀 Project Overview
+**🚀 Project Overview**
 Regular expressions (regex) are powerful tools for pattern matching in text. This project demonstrates how to use them in Python to scan a text file and extract useful information automatically.
 
-📂 Project Structure
+**📂 Project Structure**
 bash
 Copy
 Edit
@@ -32,7 +32,7 @@ alu_regex-data-extraction-Jonathan2055/
 
 💰 Currency Amounts
 
-📥 How to Use
+**📥 How to Use**
 Clone the repository (or download the folder):
 
 bash
@@ -50,7 +50,7 @@ bash
 Copy
 Edit
 python regex_extractor.py
-🧠 How It Works
+**🧠 How It Works**
 The script opens and reads the contents of sample.txt using utf-8 encoding.
 
 It then applies multiple regular expression patterns to extract relevant information.
