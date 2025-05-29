@@ -2,7 +2,7 @@ import re
 
 # Open and read the text file containing the sample data
 # "encoding='utf-8'" ensures proper reading of special characters
-with open("alu_regex-data-extraction-Jonathan2055/sample.txt", "r", encoding="utf-8") as file:
+with open("sample.txt", "r", encoding="utf-8") as file:
     sample_text = file.read()  # Read the entire content as a single string
 
 # Define regular expression patterns to extract various types of data
